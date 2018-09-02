@@ -27,4 +27,5 @@ RUN yum -y install \
     echo 'eval "$(pyenv init -)"' >> ~/.bashrc && \
     eval "$(pyenv init -)" && \
     pyenv install 3.6.6 && \
-    pyenv global 3.6.6
+    pyenv global 3.6.6 \
+

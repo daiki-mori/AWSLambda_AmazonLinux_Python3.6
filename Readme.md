@@ -1,8 +1,8 @@
-#Dockerfile for AWS Lambda(Python3.6) on AmazonLinux
+# Dockerfile for AWS Lambda(Python3.6) on AmazonLinux
 I made the Dockerfile for AWS Lambda(Python3.6).
 I hope you will make the enviroments using this Dockerfile.
 
-#Environment
+# Environment
 - Amazon Linux : 2017.12.0.20180330
 - Pyenv        : latest
 - Python       : 3.6.6
